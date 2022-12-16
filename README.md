@@ -56,6 +56,8 @@ Controladores
 ◦f. getbydate {date} 
 ◦g. getbyaffiliates {id_affiliate}
 
+##
+
 Descripción de los metodos
 
 A continuación, se a procede a describir la funcionalidad de los métodos, teniendo en cuenta que, según la definición de la data, 
@@ -92,16 +94,22 @@ se debe de conservar un contrato de datos para que los desarrollos sean uniforme
 ◦getbyaffiliates {id_affiliate}: Trae todos los appoinment de un affiliate 
 ◦Estos métodos van a permitir retornar una consulta basada en el parámetro que reciben, la cual generara un json
 
+##
+
 Criterio de aceptación 
 
 1.Se generan los endpoint con el siguiente patrón /api/controller/ y los respectivos métodos Get, Post, Put, Delete. 
 2.Todos los controladores cuentan con pruebas unitarias. 
 3.Todos los controladores son probados en postman
 
+##
+
 Tecnologias utilizadas
 
 *Spring Boot *MySQL *Postman *Spring Tool Suite 4
 
+
+##
 Edinson Stiben Sinitave Marin
 
 Email : stivennevits16@gmail.com@gmail.com
