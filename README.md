@@ -1,7 +1,11 @@
 <em> Final-challenge-backend-sophos </em>
 ##
 
+
+
 Solución de una necesidad para exponer mediante servicios API REST capacidades para realizar el control de una agenda de citas de laboratorio.
+
+##
 
 Data
 
@@ -41,7 +45,7 @@ Controladores
 ◦c. post 
 ◦d. put 
 ◦e. delete {id} 
-##
+
 3.ppoinments.controller: Controlador para la tabla Appoinments, tiene el siguiente grupo de metodos 
 
 ◦a. getlist 
